@@ -1,2 +1,2 @@
 # ctfshow.github.io
-## init33
+## init
