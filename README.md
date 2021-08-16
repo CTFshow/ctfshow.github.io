@@ -1,4 +1,2 @@
 # ctfshow.github.io
-## init
-
-just a test
+## 技能扩展使用
